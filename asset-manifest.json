@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio_back_end/static/css/main.59cb0ddb.chunk.css",
+    "main.js": "/portfolio_back_end/static/js/main.4defcf85.chunk.js",
+    "main.js.map": "/portfolio_back_end/static/js/main.4defcf85.chunk.js.map",
+    "runtime-main.js": "/portfolio_back_end/static/js/runtime-main.744bfb6e.js",
+    "runtime-main.js.map": "/portfolio_back_end/static/js/runtime-main.744bfb6e.js.map",
+    "static/js/2.81ff60ee.chunk.js": "/portfolio_back_end/static/js/2.81ff60ee.chunk.js",
+    "static/js/2.81ff60ee.chunk.js.map": "/portfolio_back_end/static/js/2.81ff60ee.chunk.js.map",
+    "index.html": "/portfolio_back_end/index.html",
+    "static/css/main.59cb0ddb.chunk.css.map": "/portfolio_back_end/static/css/main.59cb0ddb.chunk.css.map",
+    "static/js/2.81ff60ee.chunk.js.LICENSE.txt": "/portfolio_back_end/static/js/2.81ff60ee.chunk.js.LICENSE.txt",
+    "static/media/aws_3.6e76adc8.png": "/portfolio_back_end/static/media/aws_3.6e76adc8.png",
+    "static/media/HeroSection.css": "/portfolio_back_end/static/media/data_2.602cacb3.jpeg",
+    "static/media/facebook.9f0ee603.png": "/portfolio_back_end/static/media/facebook.9f0ee603.png",
+    "static/media/kaggle.16c4b0ab.jpeg": "/portfolio_back_end/static/media/kaggle.16c4b0ab.jpeg",
+    "static/media/kaggle.bbc6eab8.png": "/portfolio_back_end/static/media/kaggle.bbc6eab8.png",
+    "static/media/postgresql_6.e393ee5b.jpeg": "/portfolio_back_end/static/media/postgresql_6.e393ee5b.jpeg",
+    "static/media/takeshi3.b57a779a.jpg": "/portfolio_back_end/static/media/takeshi3.b57a779a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.744bfb6e.js",
+    "static/js/2.81ff60ee.chunk.js",
+    "static/css/main.59cb0ddb.chunk.css",
+    "static/js/main.4defcf85.chunk.js"
+  ]
+}
